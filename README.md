@@ -1,5 +1,5 @@
 # Mathpix-Snip
-Fuck Mathpix Snip, Free Forever
+As Mathpix Snip, But free forever
 
 This app can change image to latex.All right, it's free forever.
 
